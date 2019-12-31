@@ -1,0 +1,17 @@
+#EXTM3U
+
+FILMES E SÉRIES
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",PARAMOUNT
+https://d1u5e5hqx4pouy.cloudfront.net/hls1/paramount.m3u8?wmsAuthSign=
+
+#EXTINF:0 tvg-logo="" group-title="",SYFY
+https://d1u5e5hqx4pouy.cloudfront.net/hls1/syfy.m3u8?wmsAuthSign=
+
+#EXTINF:0 tvg-logo="" group-title="",STUDIO UNIVERSAL 
+https://d1u5e5hqx4pouy.cloudfront.net/hls1/studiouniversal.m3u8?wmsAuthSign=
+
+#EXTINF:0 tvg-logo="" group-title="",SPACE
+https://d1u5e5hqx4pouy.cloudfront.net/hls1/space.m3u8?wmsAuthSign=
