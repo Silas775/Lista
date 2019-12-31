@@ -226,6 +226,12 @@ https://d1u5e5hqx4pouy.cloudfront.net/hls1/discovery.m3u8?wmsAuthSign=
 #EXTINF:0 tvg-logo="" group-title="",DISCOVERY TURBO
 https://d1u5e5hqx4pouy.cloudfront.net/hls1/discoveryturbo.m3u8?wmsAuthSign=
 
+#EXTINF:0 tvg-logo="" group-title="",INVESTIGAÇÃO DISCOVERY
+https://d1u5e5hqx4pouy.cloudfront.net/hls1/investigacaodiscovery.m3u8?wmsAuthSign=
+
+#EXTINF:0 tvg-logo="" group-title="",DISCOVERY WORLD
+https://d1u5e5hqx4pouy.cloudfront.net/hls1/discoveryworld.m3u8?wmsAuthSign=
+
 
 NOTICIAS
 
@@ -244,356 +250,63 @@ VARIEDADES
 #EXTINF:0 tvg-logo="" group-title="",FOOD NETWORK
 https://d1u5e5hqx4pouy.cloudfront.net/hls1/foodnetwork.m3u8?wmsAuthSign=
 
-
 #EXTINF:0 tvg-logo="" group-title="",TLC
 https://d1u5e5hqx4pouy.cloudfront.net/hls1/tlc.m3u8?wmsAuthSign=
 
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
+#EXTINF:0 tvg-logo="" group-title="",CANAL OFF
+https://d1u5e5hqx4pouy.cloudfront.net/hls1/off.m3u8?wmsAuthSign=
 
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
+#EXTINF:0 tvg-logo="" group-title="",MULTISHOW
+https://d1u5e5hqx4pouy.cloudfront.net/hls1/multishow.m3u8?wmsAuthSign=
 
-#EXTINF:0 tvg-logo="" group-title="",
+#EXTINF:0 tvg-logo="" group-title="",MTV
+https://d1u5e5hqx4pouy.cloudfront.net/hls1/mtv.m3u8?wmsAuthSign=
 
-#EXTINF:0 tvg-logo="" group-title="",
+#EXTINF:0 tvg-logo="" group-title="",MAIS GLOBOSAT
+https://d1u5e5hqx4pouy.cloudfront.net/hls1/maisbobosat.m3u8?wmsAuthSign=
 
-#EXTINF:0 tvg-logo="" group-title="",
+#EXTINF:0 tvg-logo="" group-title="",LIFETIME
+https://d1u5e5hqx4pouy.cloudfront.net/hls1/lifetime.m3u8?wmsAuthSign=
 
-#EXTINF:0 tvg-logo="" group-title="",
+#EXTINF:0 tvg-logo="" group-title="",GNT
+https://d1u5e5hqx4pouy.cloudfront.net/hls1/gnt.m3u8?wmsAuthSign=
 
-#EXTINF:0 tvg-logo="" group-title="",
+#EXTINF:0 tvg-logo="" group-title="",FOX LIFE
+https://d1u5e5hqx4pouy.cloudfront.net/hls1/foxlife.m3u8?wmsAuthSign=
 
-#EXTINF:0 tvg-logo="" group-title="",
+#EXTINF:0 tvg-logo="" group-title="",FISH TV
+https://d1u5e5hqx4pouy.cloudfront.net/hls1/fishtv.m3u8?wmsAuthSign=
 
-#EXTINF:0 tvg-logo="" group-title="",
+#EXTINF:0 tvg-logo="" group-title="",DISCOVERY HOME&HEALTH
+https://d1u5e5hqx4pouy.cloudfront.net/hls1/discoveryhomeihealth.m3u8?wmsAuthSign=
 
-#EXTINF:0 tvg-logo="" group-title="",
+#EXTINF:0 tvg-logo="" group-title="",COMEDY CENTRAL
+https://d1u5e5hqx4pouy.cloudfront.net/hls1/comedycentral.m3u8?wmsAuthSign=
 
-#EXTINF:0 tvg-logo="" group-title="",
+#EXTINF:0 tvg-logo="" group-title="",BIS
+https://d1u5e5hqx4pouy.cloudfront.net/hls1/bis.m3u8?wmsAuthSign=
 
-#EXTINF:0 tvg-logo="" group-title="",
+#EXTINF:0 tvg-logo="" group-title="",CURTA!
+https://d1u5e5hqx4pouy.cloudfront.net/hls1/curta.m3u8?wmsAuthSign=
 
-#EXTINF:0 tvg-logo="" group-title="",
+#EXTINF:0 tvg-logo="" group-title="",E! ENTERTAINMENT TELEVISION
+https://d1u5e5hqx4pouy.cloudfront.net/hls1/canale.m3u8?wmsAuthSign=
 
-#EXTINF:0 tvg-logo="" group-title="",
+#EXTINF:0 tvg-logo="" group-title="",VIVA
+https://d1u5e5hqx4pouy.cloudfront.net/hls1/viva.m3u8?wmsAuthSign=
 
-#EXTINF:0 tvg-logo="" group-title="",
 
-#EXTINF:0 tvg-logo="" group-title="",
+ABERTOS
 
-#EXTINF:0 tvg-logo="" group-title="",
+#EXTINF:0 tvg-logo="" group-title="",REDE BANDEIRANTES
+https://d1u5e5hqx4pouy.cloudfront.net/hls1/band.m3u8?wmsAuthSign=
 
-#EXTINF:0 tvg-logo="" group-title="",
+#EXTINF:0 tvg-logo="" group-title="",RECORDTV
+https://d1u5e5hqx4pouy.cloudfront.net/hls1/recordsp-4040.ts
 
-#EXTINF:0 tvg-logo="" group-title="",
+#EXTINF:0 tvg-logo="" group-title="",SBT
+https://d1u5e5hqx4pouy.cloudfront.net/hls1/sbt.m3u8?wmsAuthSign=
 
 #EXTINF:0 tvg-logo="" group-title="",
+https://d1u5e5hqx4pouy.cloudfront.net/hls1/bobosp.m3u8?wmsAuthSign=
 
-#EXTINF:0 tvg-logo="" group-title="",
